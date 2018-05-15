@@ -34,15 +34,13 @@ Chances are other people have had similar challenges or are tackling similar or 
 
 ### Work-to-date that deals with your topic (i.e.—has a similar focus, set of inquiries or shares similar content)
 
+A variety of museums, academic instituions, arts institutions, Digital Humanities & Sciences, libraries, etc. are using CollectiveAccess to manage their collections online. 
 
+Several other websites and software do similar things for managing collections and presenting them to researchers (see notes.txt).
 
 ### Tools that engage with your problem/solution
 
-
-
-### Similar projects
-
-
+We have looked at several tools including [Omeka](http://omeka.org/) and [Mukurtu](http://mukurtu.org/). We have chosen to use Mukurtu, as some artifacts may be sensitive for indidenous communities; therefore, we want to be able to control access to those artifacts.
 
 
 ## Project Description
@@ -56,6 +54,7 @@ This is your elevator speech, or your brief abstract that you will use to hook p
 All digital scholarship must engage with the question of sustainability.
 
 ### Who or what institution will host your project? Is there a cost?
+
 
 
 ### What tools or infrastructure is needed to maintain your project?
