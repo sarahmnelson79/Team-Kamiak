@@ -75,4 +75,4 @@ Yes, the initial scope is to upload the information into the Mukurtu platform. I
 
 ### Is the data in a transferable, re-usable format?
 
-Most of the metadata are in .csv files or would at least have to be converted from the museums database, which uses paradox. 
+For WSU, most of the metadata are in .csv files or would at least have to be converted from the museums database, which uses Paradox. The data is also hosted and backed up on WSU servers for WSU. 
