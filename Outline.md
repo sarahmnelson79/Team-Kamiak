@@ -40,7 +40,7 @@ Several other websites and software do similar things for managing collections a
 
 ### Tools that engage with your problem/solution
 
-We have looked at several tools including [Omeka](http://omeka.org/) and [Mukurtu](http://mukurtu.org/). We have chosen to use Mukurtu, as some artifacts may be sensitive for indidenous communities; therefore, we want to be able to control access to those artifacts.
+We have looked at several tools including [Omeka](http://omeka.org/) and [Mukurtu](http://mukurtu.org/). We have chosen to use Mukurtu, as some artifacts may be sensitive for indigenous communities; therefore, we want to be able to control access to those artifacts.
 
 
 ## Project Description
@@ -55,20 +55,24 @@ All digital scholarship must engage with the question of sustainability.
 
 ### Who or what institution will host your project? Is there a cost?
 
-
+The Center for Digital Scholarship and Curation at Washington State University will host this project. There are no current costs to hosting.
 
 ### What tools or infrastructure is needed to maintain your project?
 
+For some custom portions of the Mukurtu implementation, it would be required to update code and maintain those functions over time.
 
 ### What people and communities are need to engage and maintain the project?
 
+This project will engage with a wide array of people and communities, including, but not limited to: indigenous communities around and on the Palouse, anthropologists/archaeologists from private companies, universities, or other research insitutions, the public, particularly on the Palouse, and elementary, middle school and high school students.
 
 ### What might be the needs in five years for people to continue to use, engage with or build on your project?
 
+Being able to incorporate 3D scans and images to interact with, also being able to provide more metadata and a variety of information from different voices, incorporating new technologies and digital displays for the collection. Ongoing maintenence and updates of the Mukurtu site.
 
 ### Is the initial scope realistic?
 
+Yes, the initial scope is to upload the information into the Mukurtu platform. It is likely that students would be needed to be able to upload and contribute the information. It would be important to talk to potential users to find out what types of information are the most helpful and would be most useful for research.
 
 ### Is the data in a transferable, re-usable format?
 
-
+Most of the metadata are in .csv files or would at least have to be converted from the museums database, which uses paradox. 
