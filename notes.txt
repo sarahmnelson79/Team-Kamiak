@@ -9,3 +9,15 @@ Environmental scan links:
 Mukurtu is probably our best tool.
 
 Other examples of digital catalogues:
+
+## Features for PalouseAnth:
+- Comprehensive list of objects
+  - Search by object types, Native American Group, by time 
+  - Images of artifacts
+  - Future, 3d scans of artifacts
+- Object Location Map
+  - Giving general location of artifacts
+  - Search by general location
+- Audio/Video
+- Allowing indigenous communities to provide interpretations of artifacts
+  
