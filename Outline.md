@@ -1,4 +1,4 @@
-# Pitch template:
+# PalouseAnth
 
 ## Focus
 
@@ -47,7 +47,7 @@ We have looked at several tools including [Omeka](http://omeka.org/) and [Mukurt
 
 This is your elevator speech, or your brief abstract that you will use to hook people in whether they be funders, stakeholders or potential collaborators.
 
-
+Anthropological and archaeological artifacts from the Palouse are mmostly curated at Washington State University and University of Idaho, although private companies and other institutions have some artifacts too. PalouseAnth will be the comprehensive digital collection of Palouse anthropological materials. This project aims to collaborate with Native American groups from the Palouse to ensure that cultural sensitive materials are handled with care. 
 
 ## Sustainability
 
